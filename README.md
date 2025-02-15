@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Student sharing my journey on to become a Software Engineer<br>Studying Software Engineering at the University Of Westminster, England
+I am currently a Student sharing my journey to become a Software Engineer<br>Studying Software Engineering at the University Of Westminster, England
 
 
 ## 🌐 Socials:
