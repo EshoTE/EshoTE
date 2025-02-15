@@ -3,9 +3,9 @@ I am currently a Student sharing my journey to become a Software Engineer<br>Stu
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-okikioluwa-eso-221959349
-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoeso31@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/
+okikioluwa-eso-221959349](https://www.linkedin.com/in/okikioluwa-eso-221959349/))
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoeso31@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EshoTE&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EshoTE&theme=default&hide_border=true)<br/>
